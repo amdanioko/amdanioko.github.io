@@ -84,7 +84,7 @@ section + section {
 
 
 .parallax--footer {
-  background-image: url("Images/me.jpeg");
+  background-image: url("photoMe.jpg");
   height:40%;
   background-size: cover;
   background-repeat: no-repeat;
