@@ -14,7 +14,7 @@ article::before {
   width: 100vw;
   height: 120vh;
   transform: translateY(-10vh);
-  background: url("photoMe.jpg") no-repeat center / cover;
+  background: url(photoMe.jpg) no-repeat center / cover;
   z-index: -1;
 }
 
@@ -84,7 +84,7 @@ section + section {
 
 
 .parallax--footer {
-  background-image: url("photoMe.jpeg");
+  background-image: url("photoMe.jpg");
   height:40%;
   background-size: cover;
   background-repeat: no-repeat;
