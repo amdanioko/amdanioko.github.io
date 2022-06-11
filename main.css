@@ -14,7 +14,7 @@ article::before {
   width: 100vw;
   height: 120vh;
   transform: translateY(-10vh);
-  background: url(apple.jpg) no-repeat center / cover;
+  background: url(photoMe.jpg) no-repeat center / cover;
   z-index: -1;
 }
 
